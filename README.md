@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kalpesh1352001@gmail.com**
 
-- ⚡ Fun fact **Sure, here's a fun fact about you as a front-end developer: You have the magical ability to turn lines of code into visually stunning and interactive web experiences, bringing digital dreams to life one click at a time! 😄🌟**
+- ⚡ Fun fact **fun fact about me as a front-end developer: I have the magical ability to turn lines of code into visually stunning and interactive web experiences, bringing digital dreams to life one click at a time! 😄🌟**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
