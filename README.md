@@ -2,13 +2,14 @@
 <h1 align="center">Hi 👋, I'm Kalpesh Rathod</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpeshrathod1234&label=Profile%20views&color=0e75b6&style=flat" alt="kalpeshrathod1234" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalpeshrathod1234" alt="kalpeshrathod1234" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kalpesh1352001" target="blank"><img src="https://img.shields.io/twitter/follow/kalpesh1352001?logo=twitter&style=for-the-badge" alt="kalpesh1352001" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 - 🔭 I’m currently working on **Moviex Project**
 
@@ -18,7 +19,7 @@
 
 - 📫 How to reach me **kalpesh12345rathod@gmail.com**
 
-- ⚡ Fun fact **Sure, here's a fun fact about you as a front-end developer: You have the magical ability to turn lines of code into visually stunning and interactive web experiences, bringing digital dreams to life one click at a time! 😄🌟**
+- ⚡ Fun fact **Sure, here's a fun fact about me as a full-stack developer: You have the magical ability to turn lines of code into visually stunning and interactive web experiences, bringing digital dreams to life one click at a time! 😄🌟**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
