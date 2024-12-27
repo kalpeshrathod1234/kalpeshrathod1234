@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/40702606/111074799-bdfbcf00-84dc-11eb-98c0-d40a99aa0da7.png)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/40702606/111074799-bdfbcf00-84dc-11eb-98c0-d40a99aa0da7.png)]()
 
 <h1 align="center">Hi 👋, I'm Kalpesh Rathod</h1>
 <h3 align="center">Full-Stack Java Developer | Building Scalable Java Applications with Java, Spring Boot, React, SQL and more</h3>
